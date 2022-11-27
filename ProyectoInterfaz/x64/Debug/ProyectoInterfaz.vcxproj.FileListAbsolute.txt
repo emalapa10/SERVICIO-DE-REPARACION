@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\ProyectoInterfaz\x64\Debug\ProyectoInterfaz.vcxproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ProyectoInterfaz\x64\Debug\ProyectoInterfaz.exe
+C:\Users\PC\source\repos\ProyectoInterfaz\x64\Debug\ProyectoInterfaz.Form1.resources
+C:\Users\PC\source\repos\ProyectoInterfaz\x64\Debug\ProyectoInterfaz.vcxproj.GenerateResource.cache
