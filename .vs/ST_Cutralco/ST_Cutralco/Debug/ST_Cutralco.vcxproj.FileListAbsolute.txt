@@ -1,0 +1,3 @@
+C:\Users\intel\source\repos\ST_Cutralco\ST_Cutralco\Debug\ST_Cutralco.vcxproj.AssemblyReference.cache
+C:\Users\intel\source\repos\ST_Cutralco\ST_Cutralco\Debug\ST_Cutralco.Form1.resources
+C:\Users\intel\source\repos\ST_Cutralco\ST_Cutralco\Debug\ST_Cutralco.vcxproj.GenerateResource.cache
